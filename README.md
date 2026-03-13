@@ -3,10 +3,10 @@
 Este repositório contém um projeto completo de análise de dados, desde a base bruta até a visualização final no Power BI. O objetivo é monitorar KPIs de vendas, faturamento e lucratividade por região e marca.
 
 ## 📂 Arquivos no Repositório
-* **`Dashboard_Vendas.pbix`**: Arquivo original do Power BI.
-* **`Base_de_Dados.xlsx`**: Planilha utilizada como fonte de dados.
-* **`Documentacao.txt`**: Meu guia pessoal com o passo a passo do processo de ETL e criação.
-* **`Curriculo_Gabriel.pdf`**: Meu currículo atualizado para contato.
+* **`Projeto vendas.pbix`**: Arquivo original do Power BI.
+* **`Vendas.xlsx`**: Planilha utilizada como fonte de dados.
+* **`Dashboard Vendas 2.txt`**: Meu guia pessoal com o passo a passo do processo de ETL e criação.
+* **`Projeto vendas.pdf`**: Projeto funcional realizado e exportado para PDF.
 
 ## 🛠️ O que foi desenvolvido
 1. **ETL (Extração, Transformação e Carga)**: Realizei a limpeza dos dados e tipagem das colunas no Power Query.
