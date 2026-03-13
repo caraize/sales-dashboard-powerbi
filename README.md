@@ -22,4 +22,4 @@ Este repositório contém um projeto completo de análise de dados, desde a base
 ![Preview do Dashboard](Dashboard vendas-2.png)
 
 ---
-✉️ **Contato:** [Seu e-mail ou Link do LinkedIn]
+✉️ **Contato:** [www.linkedin.com/in/gabriel-nascimento-dantas/]
