@@ -1,0 +1,29 @@
+Dashboard Vendas 2
+
+Usando Caixa de Texto para fazer o Titulo, após isso mexi somente nas cores e design.
+
+Para fazer o Faturamento, usamos um Cartão, arrastamos o Faturamento, e logo após fazemos os ajustes no design, como Borda, Sombra e Titulo, tudo isso dentro de formato.
+
+Em seguida para fazer o Lucro Total, Qtd. Vendida e Qtd. Clientes copiamos o design usando o Pincel de Formatação.
+
+Para fazer o Faturamento por Marca usamos um gráfico no horizontal, pois conta com Marcas e Valores, usamos no Eixo Y a marca e no Eixo X usamos o Faturamento, dessa forma, copiamos o design usando o Pincel de Formatação.
+
+
+Para o Faturamento Mensal, usamos um gráfico na vertical, pois conta com Data e Valor, usamos no Eixo X a Data e no Eixo Y usamos o Faturamento, dessa forma, copiamos o design usando o Pincel de Formatação.
+
+Por fim, para fazer o faturamento por continente usamos o Mapa, e na localização colocamos a coluna de Continente e tamanho da bolha colocamos o Faturamento.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
