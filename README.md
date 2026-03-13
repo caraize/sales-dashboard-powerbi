@@ -19,7 +19,7 @@ Este repositório contém um projeto completo de análise de dados, desde a base
 2. Certifique-se de ter o **Power BI Desktop** instalado.
 3. (Opcional) Veja as métricas principais na imagem de preview abaixo:
 
-![Preview do Dashboard](Projeto vendas.pdf)
+![Preview do Dashboard](Dashboard vendas-2.png)
 
 ---
 ✉️ **Contato:** [Seu e-mail ou Link do LinkedIn]
